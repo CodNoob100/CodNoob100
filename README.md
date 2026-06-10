@@ -1,4 +1,4 @@
-# Hi, I'm CodNoob100 🚀
+# Hi, I'm CodNoob100
 
 I build high-performance, bare-metal infrastructure for Artificial Intelligence.
 
